@@ -1,0 +1,15 @@
+Copyright (c) 2026 Ivan Misuno
+
+The slides, notes and other text in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt the material for any purpose, including commercially,
+as long as you give appropriate credit, link to the license, and indicate if
+changes were made.
+
+Exceptions:
+- The scripts in each talk's scripts/ folder are licensed under the MIT
+  License; see the LICENSE file in that folder.
+- Third-party images, screenshots and logos shown in the slides belong to
+  their respective owners and are not licensed by this repository.

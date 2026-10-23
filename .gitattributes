@@ -1,0 +1,4 @@
+# The slide exports are generated and large: no text diffs, and out of the
+# repository's language statistics.
+*.html linguist-generated -diff
+*.pdf binary
